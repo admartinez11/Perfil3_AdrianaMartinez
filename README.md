@@ -13,7 +13,7 @@ Aplicación móvil desarrollada con **React Native + Expo** para la evaluación 
 ## Entregables
 
 - **Video demostrativo:** [Ver video](https://drive.google.com/file/d/1Fm5qAnr-8yi02w9lzI080I3_GC7u1eQg/view?usp=sharing)
-- 📦 **Descargar APK:** [Descargar APK](https://expo.dev/accounts/admartinez11/projects/Perfil3_AdrianaMartinez/builds/637ed143-9281-402c-b303-6e7a96d4dac9)
+- **Descargar APK:** [Descargar APK](https://expo.dev/accounts/admartinez11/projects/Perfil3_AdrianaMartinez/builds/637ed143-9281-402c-b303-6e7a96d4dac9)
 
 ## Descripción
 
